@@ -1,0 +1,10 @@
+{
+  "name": "DisableCallIdle",
+  "description": "Prevents being kicked from voice calls due to idle timeout.",
+  "authors": [
+    {
+      "name": "Nuckyz"
+    }
+  ],
+  "main": "index.js"
+}
